@@ -1,6 +1,6 @@
 # FoodRecognition
 ## Ссылка на exe файл:
-https://cloud.mail.ru/public/58L7/Rm2DJWXKo
+https://cloud.mail.ru/public/bgC4/pxpbr1bFB
 ## Скриншоты программы
 Распознование пиццы             |  Распознование яблочного пирога
 :-------------------------:|:-------------------------:
