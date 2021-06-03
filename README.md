@@ -17,3 +17,6 @@ https://cloud.mail.ru/public/bgC4/pxpbr1bFB
 ![di1](https://user-images.githubusercontent.com/52213479/120569079-df09f700-c41d-11eb-8d08-da172378f3fc.png)    ![di2](https://user-images.githubusercontent.com/52213479/120569088-e29d7e00-c41d-11eb-901a-55b5e3ee77fe.png)
 ![hi1](https://user-images.githubusercontent.com/52213479/120569093-e6310500-c41d-11eb-9557-0b0acd98c6c0.png)    ![hi2](https://user-images.githubusercontent.com/52213479/120569102-ea5d2280-c41d-11eb-869c-2c8ed4c8fb7b.png)
 ![hi3](https://user-images.githubusercontent.com/52213479/120569111-ed581300-c41d-11eb-8ad6-0f9b69b6b087.png)    ![hi4](https://user-images.githubusercontent.com/52213479/120569123-efba6d00-c41d-11eb-8953-7fa402355a67.png)
+![4](https://user-images.githubusercontent.com/52213479/120574830-aae80380-c428-11eb-91de-6c3da54f07b0.png)
+![2](https://user-images.githubusercontent.com/52213479/120574863-b9ceb600-c428-11eb-8a13-efec91e430b2.png)
+![1](https://user-images.githubusercontent.com/52213479/120574886-c3581e00-c428-11eb-90a2-56c595f3b5a3.png)
