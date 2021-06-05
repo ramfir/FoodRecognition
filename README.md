@@ -1,4 +1,11 @@
 # FoodRecognition
+
+## Команда для запуска тренировки модели
+```
+python retrain.py --output_graph=retrained_graph.pb --output_labels=retrained_labels.txt --architecture=MobileNet_1.0_224 --image_dir=Images
+```
+где output_graph - файл в котором сохранится натренированный граф, output_labels - файл где сохранятся надписи, architecture - архитектура используемой модели, image_dir - путь к папке с изображениями
+
 ## Ссылка на exe файл:
 https://cloud.mail.ru/public/bgC4/pxpbr1bFB
 
